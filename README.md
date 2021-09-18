@@ -1,5 +1,5 @@
 # Scroll-Animation
-A Random Codepen!
+Found On Codepen!
 
 ## 📂 | Clone
 ```sh
