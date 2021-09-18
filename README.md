@@ -1,7 +1,7 @@
 # Scroll-Animation
 A Random Codepen!
 
-## 📂 | Installation
+## 📂 | Clone
 ```sh
 npm i discord-buttons
 ```
