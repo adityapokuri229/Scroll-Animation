@@ -11,7 +11,7 @@ https://github.com/adityapokuri229/Scroll-Animation.git
 1) Click On The Code Button On Top!
 <br>
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/866953240548868106/888740704573091990/unknown.png" height="100px" width="120px">
+  <img src="https://cdn.discordapp.com/attachments/866953240548868106/888740704573091990/unknown.png">
   <br> <br>
 </div>
 
