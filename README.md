@@ -3,7 +3,7 @@ A Random Codepen!
 
 ## 📂 | Clone
 ```sh
-npm i discord-buttons
+https://github.com/adityapokuri229/Scroll-Animation.git
 ```
 
 
