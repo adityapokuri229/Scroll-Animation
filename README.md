@@ -1,6 +1,5 @@
 # Scroll-Animation
-<a href="https://codepen.io/isladjan" Found It On Codepen!</a>
-
+<a href="https://codepen.io/isladjan">Found It On Codepen!</a>
 ## 📂 | Clone
 ```sh
 https://github.com/adityapokuri229/Scroll-Animation.git
