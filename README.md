@@ -1,6 +1,6 @@
 # Scroll-Animation
 <a href="https://codepen.io/isladjan" target="_blank">Found It On Codepen!</a>
-<br>
+<br>  <br> <br>
 <a href="https://bit.ly/2XmyJiF" target="_blank">Go To Website!</a>
 ## 📂 | Clone
 ```sh
